@@ -1,0 +1,16 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file
+# This file contains sensitive information like database credentials
+# and should never be committed to a public repository.
+.env
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional editor directories
+.idea
+.vscode
